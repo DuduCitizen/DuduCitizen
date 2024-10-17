@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on Axalta Coating Systems
-- 🌱 I’m currently learning TI
-- 📫 How to reach me: lucaseduardoedu.2005@gmail.com
+- 💲 I’m currently working on Axalta Coating Systems
+- 🖥 I’m currently learning TI
+- 📧 How to reach me: lucaseduardoedu.2005@gmail.com
 
 ###
 

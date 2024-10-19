@@ -24,7 +24,7 @@
   
 <h1 align="left">
   <div align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&left=true&color=6C0ED4&vCenter=true&width=500&height=70&duration=4000&lines=Most+Usade+Languages+👅;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&left=true&color=6C0ED4&vCenter=true&width=500&height=70&duration=4000&lines=Most+Used+Languages+👅;" />
   </div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuduCitizen&layout=compact&theme=midnight-purple)](https://github.com/DuduCitizen)

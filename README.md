@@ -2,16 +2,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&center=true&color=6C0ED4&vCenter=true&width=500&height=70&duration=4000&lines=Eae+👍;+Dudu+🥶+aqui!;" />
 </h1>
 
-<h1 align="left">
+<h2 align="center">
   <div align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&left=true&color=6C0ED4&vCenter=true&width=500&height=70&duration=4000&lines=Profile+🃏;" />
-  </div>
+    </div>
   - 💰 I’m currently working on Axalta Coating Systems
   <br>
   - 🖥 I’m currently learning TI
-  <br>
-  - 📧 How to reach me: lucaseduardoedu.2005@gmail.com
-</h1>
+</h2>
 
 
 <h1 align="left">
@@ -33,10 +31,14 @@
 
 <h1 align="left">
 <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&left=true&color=6C0ED4&vCenter=true&width=500&height=70&duration=4000&lines=Social+Media+📱;" />
-  <div align="center">
+  <div align="left">
  <a href="https://linkedin.com/in/lucas-eduardo-6b2883312/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  </a>
+
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCJFVqvjJqDJgglbmgWQrDHwrwvqfnLlhGvKvqWJgcGvphkchTCkbgfkHTRxSftjTDVRSB" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a> 
   </div>
 </h1>
 

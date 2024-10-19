@@ -10,7 +10,7 @@
   <br>
   - 🖥 I’m currently learning TI
   <br>
-  - 🎉 I'm 19 years old
+  - 🎉 I'm 19 years ol
 </h2>
 
 

@@ -18,8 +18,7 @@
   <div align="left">
 <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&left=true&color=6C0ED4&vCenter=true&width=500&height=70&duration=4000&lines=Stats+📈;" />
   </div>
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuduCitizen&show_icons=true&theme=midnight-purple) 
+   <img src="https://github-readme-stats.vercel.app/api?username=DuduCitizen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"
 </h1>
 
   

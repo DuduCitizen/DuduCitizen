@@ -26,4 +26,4 @@
     
 </div>
 
-![Snake animation](https://github.com/DuduCitizen)
+![Snake animation](https://github.com/DuduCitizen/DuduCitizen.git/)

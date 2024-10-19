@@ -2,13 +2,15 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&center=true&color=6C0ED4&vCenter=true&width=500&height=70&duration=4000&lines=Eae+👍;+Dudu+🥶+aqui!;" />
 </h1>
 
-<h2 align="center">
+<h2 align="left">
   <div align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&left=true&color=6C0ED4&vCenter=true&width=500&height=70&duration=4000&lines=Profile+🃏;" />
     </div>
   - 💰 I’m currently working on Axalta Coating Systems
   <br>
   - 🖥 I’m currently learning TI
+  <br>
+  - 🎉 I'm 19 years old
 </h2>
 
 

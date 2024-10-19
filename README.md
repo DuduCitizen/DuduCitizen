@@ -1,5 +1,6 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=6C0ED4&width=435&lines=Eae+%F0%9F%91%8D;+Dudu+%F0%9F%A5%B6+aqui!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&center=true&color=6C0ED4&vCenter=true&width=500&height=70&duration=4000&lines=Eae+👍;+Dudu+🥶+aqui!;" />
+</h1>
 </h1>
 
 - 💲 I’m currently working on Axalta Coating Systems

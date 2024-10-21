@@ -13,7 +13,7 @@
 #
 
 <h1 align="left">
-  <div align="left">
+  <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&left=true&color=6C0ED4&vCenter=true&width=500&height=70&duration=4000&lines=Stats+📈;" />
   </div>
   

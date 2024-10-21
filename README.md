@@ -17,7 +17,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&left=true&color=6C0ED4&vCenter=true&width=500&height=70&duration=4000&lines=Stats+📈;" />
   </div>
   
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DuduCitizen&theme=shadow-purple&hide_border=true" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DuduCitizen&theme=midnight-purple&hide_border=true&card_width=400&card_height=190" alt="GitHub Streak" />
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuduCitizen&show_icons=true&theme=midnight-purple)
+
+   </a>
 </h1>
 
   

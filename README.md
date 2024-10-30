@@ -8,7 +8,7 @@
     </div>
     
 ###  - 💰 I’m currently working on Axalta Coating Systems
-###  - 🖥 I’m currently learning TI on Senac Tatuapé
+###  - 🖥 I’m currently learning IT on Senac Tatuapé
 ###  - 🎉 I'm 19 years old
 #
 

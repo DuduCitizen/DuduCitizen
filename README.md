@@ -39,6 +39,10 @@
 
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCJFVqvjJqDJgglbmgWQrDHwrwvqfnLlhGvKvqWJgcGvphkchTCkbgfkHTRxSftjTDVRSB" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  
+  <a href="https://www.instagram.com/dudutheboy_/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-363636?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
   </a> 
   </div>
 </h1>

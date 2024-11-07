@@ -47,6 +47,8 @@
   </div>
 </h1>
 
+[![](https://visitcount.itsvg.in/api?id=DuduCitizen&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
   
 
   
